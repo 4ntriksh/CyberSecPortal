@@ -1,0 +1,52 @@
+1.There is a hidden message in the Start photo.
+
+
+
+(USE imagehide tool to view hidden messages)
+
+
+
+
+
+
+2.You have been given the key and the cipher in that message.
+
+
+
+
+
+
+
+
+
+
+
+3.Decrypt that cipher using Triple DES ECB method.
+
+
+
+
+
+
+
+
+
+
+
+4.Similarly there is another hidden message inside the second photo that you will discover from a link, unvieled from the previous cipher.
+
+
+
+
+
+
+
+
+
+
+
+5.It will again instruct you to go to some another internet address where you will find an audio which will give you some numbers.
+
+
+
+Now, you have to figure out what these numbers are.
