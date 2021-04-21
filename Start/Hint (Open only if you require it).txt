@@ -2,7 +2,6 @@
 
 
 
-(USE imagehide tool to view hidden messages)
 
 
 
@@ -10,7 +9,6 @@
 
 
 2.You have been given the key and the cipher in that message.
-
 
 
 
@@ -44,9 +42,23 @@
 
 
 
-
 5.It will again instruct you to go to some another internet address where you will find an audio which will give you some numbers.
 
 
 
-Now, you have to figure out what these numbers are.
+Now, you have to figure out what these numbers are. 
+ |
+ |
+ |
+ |
+ |
+ |
+\ /
+ \/
+(Map Coordinates)
+
+
+
+
+
+(Use imagehide tool to extract information form photos)
