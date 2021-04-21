@@ -1,4 +1,4 @@
-This is a puzzle designed to test your very basic knowlegde in the field of cryptography and steganography.
+This is a puzzle designed to test your knowlegde in the field of cryptography and steganography.
 Scene:
 You have captured cellphone of a terrorist linked to ISIS. There is just 1 image found on his/her device. Your job is to extract the information about a bomb blast that is about to happen in next 30 minutes from this image. Keep in mind that you should complete this quiz within 30 minutes so as to improve your speed in this field. 
 After the completion of this Puzzle you will find 2 Bomb spots where bombs will be planted. You have to give the names of the places as your answers.
